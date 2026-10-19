@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Proyecto base del negocio.
+Proyecto de un negocio con base de datos SQL y un buscador de pokémon.
 
 ## Estructura
 
