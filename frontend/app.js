@@ -49,6 +49,10 @@ async function buscarPokemon() {
     imagen.src = data.sprites.front_default;
     imagen.alt = data.name;
 
+    tipos.textContent = data.types.map((t) => t.type.name).join(', ');
+    peso.textContent = `${data.weight / 10} kg`;
+    altura.textContent = `${data.height / 10} m`;
+    
     mensaje.textContent = '';
     resultado.hidden = false;
   } catch (error) {
