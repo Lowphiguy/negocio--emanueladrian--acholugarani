@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Proyecto base del negocio.
+Práctica de Programación Web III que integra Git, SQL, métodos HTTP y fetch.
 
 ## Estructura
 
