@@ -10,7 +10,9 @@
 
 ## Descripción
 
-Proyecto de un negocio con base de datos SQL y un buscador de pokémon.
+
+Proyecto de un negocio con base de datos SQL y un buscador de pokémon, hecho para la práctica de Programación Web III.
+
 
 ## Estructura
 
